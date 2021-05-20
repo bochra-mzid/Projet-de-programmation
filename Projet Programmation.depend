@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1619128982 source:c:\users\hp\desktop\projet programmation\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cstdlib>
+	"Eleve.cpp"
+	"Maladie.cpp"
+	"Responsable.cpp"
+
+1619126834 c:\users\hp\desktop\projet programmation\eleve.cpp
+	"Eleve.h"
+	<iostream>
+	<dirent.h>
+	<sys/types.h>
+
+1619126723 c:\users\hp\desktop\projet programmation\eleve.h
+	<iostream>
+	<vector>
+	"Resultat.h"
+
+1619041416 c:\users\hp\desktop\projet programmation\resultat.h
+	<iostream>
+
+1619041347 c:\users\hp\desktop\projet programmation\maladie.cpp
+	"Maladie.h"
+	<iostream>
+
+1619041366 c:\users\hp\desktop\projet programmation\maladie.h
+	<iostream>
+
+1619129191 c:\users\hp\desktop\projet programmation\responsable.cpp
+	"Responsable.h"
+	"Resultat.h"
+	<iostream>
+	<fstream>
+	<dirent.h>
+	<sys/types.h>
+
+1619037653 c:\users\hp\desktop\projet programmation\responsable.h
+	<iostream>
+	<fstream>
+	"Eleve.h"
+	"Maladie.h"
+
+1621295330 source:c:\users\21623\desktop\projet programmation - version finale\projet programmation\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cstdlib>
+	"Eleve.cpp"
+	"Maladie.cpp"
+	"Responsable.cpp"
+
+1619776859 c:\users\21623\desktop\projet programmation - version finale\projet programmation\eleve.cpp
+	"Eleve.h"
+	<iostream>
+	<dirent.h>
+	<sys/types.h>
+
+1619539618 c:\users\21623\desktop\projet programmation - version finale\projet programmation\eleve.h
+	<iostream>
+	<vector>
+	"Resultat.h"
+
+1619041416 c:\users\21623\desktop\projet programmation - version finale\projet programmation\resultat.h
+	<iostream>
+
+1619041347 c:\users\21623\desktop\projet programmation - version finale\projet programmation\maladie.cpp
+	"Maladie.h"
+	<iostream>
+
+1619539467 c:\users\21623\desktop\projet programmation - version finale\projet programmation\maladie.h
+	<iostream>
+
+1621363480 c:\users\21623\desktop\projet programmation - version finale\projet programmation\responsable.cpp
+	"Responsable.h"
+	"Resultat.h"
+	<iostream>
+	<fstream>
+	<dirent.h>
+	<sys/types.h>
+
+1619539381 c:\users\21623\desktop\projet programmation - version finale\projet programmation\responsable.h
+	<iostream>
+	<fstream>
+	"Eleve.h"
+	"Maladie.h"
+

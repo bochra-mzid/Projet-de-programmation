@@ -1,0 +1,8 @@
+1- Etes-vous capable de rester chez-vous ? [Oui|Neutre|Non]
+2- Sortez-vous pour marcher dans la rue pres de chez-vous ? [Oui|Parfois|Rarement|Non]
+3- allez-vous souvent aux grands centres commerciaux ? [Oui|souvent|parfois|jamais]
+4- allez-vous souvent à des soirees, au bowling ... ? [Oui|souvent|parfois|jamais]
+5-"faites-vous souvent la queue" a l'epicerie ou la banque ? [Oui|souvent|parfois|jamais]
+6- Sortez-vous pour aller au magasin du coin ? [Oui|souvent|parfois|jamais]
+7- Pouvez-vous manger à un restaurant ?  [Oui|souvent|parfois|jamais]
+8- Etes-vous en mesure de prendre les ascenseurs ?  [Oui|souvent|parfois|jamais]

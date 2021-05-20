@@ -1,0 +1,7 @@
+1-Avez-vous tendance a se trouver « pas bon » ?  [Oui|souvent|parfois|jamais]	
+2-Avez-vous de trous de memoire ? [Oui|souvent|parfois|jamais]
+3-Avez-vous crainte de decevoir ? [Oui|souvent|parfois|jamais]
+4-Avez-vous crise d angoisse ? [Oui|souvent|parfois|jamais]
+5-Avez-vous l'impression d etre inefficace ? [Oui|souvent|parfois|jamais]
+6-Avez-vous propension a eviter la critique ? [Oui|souvent|parfois|jamais]
+7-Avez-vous perfectionnisme exagere ? [Oui|souvent|parfois|jamais]

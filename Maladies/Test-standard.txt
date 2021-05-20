@@ -1,0 +1,8 @@
+1-preferez vous etre seul ou en compagnie ?  [seul|en compagnie]
+2-avez-vous des troubles alimentaires (boulimie/anorexie) ?  [Oui|Non]
+3-avez-vous des troubles de sommeil ?  [Oui|Non]
+4-Etes-vous inquie.e constamment ?  [Oui|Non]
+5-votre apparence est-elle importante pour vous ?  [Oui|Non]
+6-Etes-vous obsede.e par votre poids ? [Oui|Non]
+7-Sentez-vous un manque d energie ou de motivation ?  [Oui|Non]
+8-adoptez-vous des comportements a risque ?  [Oui|Non]
